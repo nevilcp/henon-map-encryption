@@ -1,0 +1,2 @@
+ipykernel==7.1.0
+notebook==6.4.13
